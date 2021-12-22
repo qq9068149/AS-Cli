@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-// 终端选择库
+// 给输入命令行的用户提供一个好看的界面
 const inquirer = require('inquirer')
 // 从git下载库
 const download = require('download-git-repo')
