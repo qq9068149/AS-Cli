@@ -14,6 +14,13 @@ AS-Cli是一个脚手架工具项目
 1.  as -h (查看脚手架所有的指令)
 2.  as create name (创建项目)
 
+#### 使用的npm库
+
+```
+commander                      // 快速开发Nodejs命令行工具的package
+inquirer                       // 给输入命令行的用户提供一个好看的界面
+download-git-repo              // 从git下载项目
+```
 #### 参与贡献
 
 1.  Fork 本仓库
