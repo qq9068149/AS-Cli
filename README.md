@@ -3,7 +3,7 @@
 #### 介绍
 AS-Cli是一个脚手架工具项目
 
-#### 安装教程
+#### 本地调试
 
 1.  npm install (安装依赖)
 2.  npm link （进行全局link注册）
@@ -11,6 +11,7 @@ AS-Cli是一个脚手架工具项目
 
 #### 使用说明
 
+1.  npm i as-yyds-cli -g (从npm全局安装AS-Cli)
 1.  as -h (查看脚手架所有的指令)
 2.  as create name (创建项目)
 
