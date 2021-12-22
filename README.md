@@ -7,6 +7,7 @@ AS-Cli是一个脚手架工具项目
 
 1.  npm install (安装依赖)
 2.  npm link （进行全局link注册）
+2.  npm unlink （卸载全局link）
 
 #### 使用说明
 
